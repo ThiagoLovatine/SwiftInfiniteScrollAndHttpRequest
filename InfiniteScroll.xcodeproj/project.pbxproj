@@ -17,6 +17,8 @@
 		AF70B2922700EF65007A78A3 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF70B2682700EF64007A78A3 /* ContentView.swift */; };
 		AF70B2932700EF65007A78A3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AF70B2692700EF65007A78A3 /* Assets.xcassets */; };
 		AF70B2942700EF65007A78A3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AF70B2692700EF65007A78A3 /* Assets.xcassets */; };
+		AF70B2A42700EFBF007A78A3 /* SourceOfTruth.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF70B2A32700EFBF007A78A3 /* SourceOfTruth.swift */; };
+		AF70B2A52700EFBF007A78A3 /* SourceOfTruth.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF70B2A32700EFBF007A78A3 /* SourceOfTruth.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +51,7 @@
 		AF70B2872700EF65007A78A3 /* Tests macOS.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Tests macOS.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		AF70B28B2700EF65007A78A3 /* Tests_macOS.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests_macOS.swift; sourceTree = "<group>"; };
 		AF70B28D2700EF65007A78A3 /* Tests_macOSLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests_macOSLaunchTests.swift; sourceTree = "<group>"; };
+		AF70B2A32700EFBF007A78A3 /* SourceOfTruth.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SourceOfTruth.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +103,7 @@
 				AF70B2672700EF64007A78A3 /* InfiniteScrollApp.swift */,
 				AF70B2682700EF64007A78A3 /* ContentView.swift */,
 				AF70B2692700EF65007A78A3 /* Assets.xcassets */,
+				AF70B2A32700EFBF007A78A3 /* SourceOfTruth.swift */,
 			);
 			path = Shared;
 			sourceTree = "<group>";
@@ -301,6 +305,7 @@
 			files = (
 				AF70B2912700EF65007A78A3 /* ContentView.swift in Sources */,
 				AF70B28F2700EF65007A78A3 /* InfiniteScrollApp.swift in Sources */,
+				AF70B2A42700EFBF007A78A3 /* SourceOfTruth.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -310,6 +315,7 @@
 			files = (
 				AF70B2922700EF65007A78A3 /* ContentView.swift in Sources */,
 				AF70B2902700EF65007A78A3 /* InfiniteScrollApp.swift in Sources */,
+				AF70B2A52700EFBF007A78A3 /* SourceOfTruth.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
